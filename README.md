@@ -1,5 +1,6 @@
 ![github_image](github_image2.jpg)
 
+---
 # Hello everyone 👋
 
 * 🖥 I'm novice Developer
