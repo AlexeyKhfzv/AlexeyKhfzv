@@ -1,4 +1,4 @@
-![github_image](github_image1.jpg)
+![github_image](github_image2.jpg)
 
 ---
 # Hello everyone 👋
