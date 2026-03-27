@@ -2,4 +2,7 @@
 
 ---
 # Hello everyone 👋
-### Novice Developer, Rustacean. Learning Python and Rust for writing challenging and very interesting projects.
+
+* 🖥 I'm novice Developer
+* 😎 I'm currently learning Rust 
+* 🔥 I really love Bashkortostan!
