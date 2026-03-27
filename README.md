@@ -3,9 +3,9 @@
 ---
 # Hi everyone 👋
 
-* 🖥 I'm novice Developer
-* 😎 I'm currently learning Rust
-* 🔥 I truly love my homeland!
+- [x] I'm novice Developer
+- [x] Currently I'm learning Rust language
+- [x] I love challenging and interesting projects
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
