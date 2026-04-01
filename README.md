@@ -8,7 +8,7 @@
 - [x] I love challenging and interesting projects
 
 <p align="center">
-[![Top Languages](https://github.com/AlexeyKhfzv/github-readme-stats))
+[![Top Languages](https://github.com/AlexeyKhfzv/github-readme-stats)]
 
 </p>
 
