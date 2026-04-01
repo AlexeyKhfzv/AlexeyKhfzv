@@ -15,7 +15,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
 
 <p align="center">
-  <a href="https://github.com/AlexeyKhfzv/beautiful-github-homepage"><picture><img height='200px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=AlexeyKhfzv&hide_title=false&layout=compact&theme=white&count_private=true" /></picture></a>
+  <a href="https://github.com/AlexeyKhfzv/beautiful-github-homepage"><picture><img height='200px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=AlexeyKhfzv&hide_title=false&layout=compact&theme=gothem&count_private=true" /></picture></a>
 </p>
-
-[GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyKhfzv)
