@@ -8,7 +8,7 @@
 - [x] I love challenging and interesting projects
 
 <p align="center">
-  <a href="https://github.com/AlexeyKhfzv/bio"><picture><img height='200px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=AlexeyKhfzv&layout=compact&theme=gothem"/></picture></a>
+  <a href="https://github.com/AlexeyKhfzv/beautiful-github-homepage"><picture><img height='200px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=AlexeyKhfzv&layout=compact&theme=gothem"/></picture></a>
 </p>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
