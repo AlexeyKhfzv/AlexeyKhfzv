@@ -13,3 +13,9 @@
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
+
+<p align="center">
+  <a href="https://github.com/AlexeyKhfzv/beautiful-github-homepage"><picture><img align="" height='200px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=AlexeyKhfzv&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexeyKhfzv)](https://github.com/AlexeyKhfzv/github-readme-stats)
