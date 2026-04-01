@@ -6,9 +6,11 @@
 - [x] I'm novice Developer
 - [x] I'm currently learning Rust language
 - [x] I love challenging and interesting projects
+
 <p align="center">
   <a href="https://github.com/AlexeyKhfzv/bio"><picture><img height='200px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=AlexeyKhfzv&layout=compact&theme=gothem"/></picture></a>
 </p>
+
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
