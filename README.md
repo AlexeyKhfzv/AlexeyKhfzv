@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,py,vscode,github" />
-  </a>  
+    <img src="https://skillicons.dev/icons?i=rust,py,vscode,github" />  
+  </a>
   <a href="">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" />
   </a>
