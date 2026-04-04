@@ -8,5 +8,7 @@
 - [x] I love challenging and interesting projects
 
 <p align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=py,rust,github)](https://skillicons.dev)
+
 </p>
