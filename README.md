@@ -6,6 +6,7 @@
 - [x] I'm novice Developer
 - [x] I'm currently learning Rust language
 - [x] I love challenging and interesting projects  
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
 
 <p align="center">
