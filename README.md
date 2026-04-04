@@ -7,4 +7,6 @@
 - [x] I'm currently learning Rust language
 - [x] I love challenging and interesting projects
 
-[![My Skills](https://skillicons.dev/icons?i=py,rust,git)](https://skillicons.dev)
+<p align="center">
+[![My Skills](https://skillicons.dev/icons?i=py,rust,github)](https://skillicons.dev)
+</p>
