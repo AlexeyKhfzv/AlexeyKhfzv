@@ -5,13 +5,17 @@
 
 - [x] I'm novice Developer
 - [x] I'm currently learning Rust language
-- [x] I love challenging and interesting projects  
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
+- [x] I love challenging and interesting projects
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,py,vscode,github" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" />
   </a>
 </p>
 
