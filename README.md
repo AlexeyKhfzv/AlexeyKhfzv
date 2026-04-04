@@ -7,4 +7,4 @@
 - [x] I'm currently learning Rust language
 - [x] I love challenging and interesting projects
 
-[![Python](https://imgshields.io/badge/Python15-3776AB?logo=python&logoColor="fff")](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
