@@ -7,4 +7,8 @@
 - [x] I'm currently learning Rust language
 - [x] I love challenging and interesting projects
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+<p align="center">
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Pandsas](https://img.shields.io/badge/Pandas-3776AB?logo=pandas&logoColor=fff)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+
+</p>
