@@ -9,6 +9,6 @@
 
 <p align="center">
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=fff)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![My Skills](https://skillicons.dev/icons?i=rust,py,vscode,raspberrypi)](https://skillicons.dev)   [![Telegram](https://img.shields.io/badge/Telegram-%23000000.svg?logo=telergam&logoColor=fff)](#) [![Github](https://img.shields.io/badge/Github-3776AB?logo=github&logoColor=fff)](#)
 
 </p>
