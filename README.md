@@ -9,9 +9,10 @@
 
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=rust,py,vscode,raspberrypi)](https://skillicons.dev)
+[![MySkills](https://skillicons.dev/icons?i=rust,py,vscode,raspberrypi)](https://skillicons.dev)
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&
-logoColor=white)](#) [![Github](https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=fff)](#)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
+
+[![Github](https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=fff)](#)
 
 </p>
