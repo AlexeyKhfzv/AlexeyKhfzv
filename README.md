@@ -12,7 +12,6 @@
     <img src="https://skillicons.dev/icons?i=rust,py,vscode,github" />
   </a>
 </p>
-
 <p align="center">
   <a href="">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" />
