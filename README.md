@@ -7,8 +7,10 @@
 - [x] I'm currently learning Rust language
 - [x] I love challenging and interesting projects
 
-<p align="center">
+[![Python](https://img
 
-[![My Skills](https://skillicons.dev/icons?i=py,rust,github)](https://skillicons.dev)
+shields.io/badge/Python
 
-</p>
+15
+
+-3776AB?logo=python&logoColor=fff)](#)
