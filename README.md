@@ -1,7 +1,7 @@
 ![github_image](github_image1.jpg)
 
 ---
-# Hi everyone 👋
+<p align="center"> Hi everyone 👋 </p>
 
 - [x] I'm novice Developer
 - [x] I'm currently learning Rust language
