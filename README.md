@@ -9,9 +9,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-
-[![MySkills](https://skillicons.dev/icons?i=rust,py,raspberrypi,vscode)](https://skillicons.dev)  
-
+    <img src="https://skillicons.dev/icons?i=rust,py,raspberrypi, vscode" />
   </a>
 </p>
 
