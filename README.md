@@ -4,7 +4,7 @@
 <h1 align="center"> Hi everyone 👋 </h1>
 
 - [x] I'm novice Developer
-- [x] I'm currently learning Rust language
+- [x] I'm currently learning Rust language (38%)
 - [x] I love challenging and interesting projects
 
 <p align="center">
