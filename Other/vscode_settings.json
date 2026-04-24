@@ -1,0 +1,59 @@
+{
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "storage.type",
+                    "entity.name.type"
+                ], 
+                "settings": { "foreground": "#ffa413" } // Типы данных (int, char, и др.)
+            },
+            {
+                "scope": "entity.name.function", 
+                "settings": { "foreground": "#f79cff" } // Названия функций
+            },
+            {
+                "scope": "string", 
+                "settings": { "foreground": "#5adbff" } // Строки
+            },
+            {
+                "scope": [
+                    "keyword.operator"
+                ],
+                "settings": {
+                    "foreground": "#FFFFFF"
+                }
+            },
+            {
+            "scope": [
+                "punctuation.section.block", // Фигурные скобки
+                "constant.numeric" // Числа
+            ],
+            "settings": {
+                "foreground": "#b1fff6" // Укажите желаемый цвет (HEX)
+            }
+        }
+        ]
+    },
+        "editor.semanticTokenColorCustomizations": {
+        "rules": {
+            // Переменные
+            "variable": "#ffffff",
+            "variable.readonly": "#ffffff", // Неизменяемые (let)
+            "variable.mutable": {
+                "foreground": "#ffffff",
+                "fontStyle": "underline"    // Изменяемые (let mut) можно подчеркнуть
+            },
+            "enumMember": "#92a2ff",
+            "property": "#92a2ff",      // Цвет полей (переменных) в структурах
+            "property.readonly": "#92a2ff", // Для надежности в разных контекстах
+        }
+    },
+    "editor.bracketPairColorization.enabled": true,
+    "workbench.colorCustomizations": {
+        "editorBracketHighlight.foreground1": "#ffffff",
+        "editorBracketHighlight.foreground2": "#ffffff",
+        "editorBracketHighlight.foreground3": "#ffffff",
+        "editorBracketHighlight.unexpectedBracket.foreground": "#ffffff"
+    }
+}
