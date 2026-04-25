@@ -1,5 +1,6 @@
 {
     "editor.tokenColorCustomizations": {
+        "[Monokai Vibrant (Rust)]": {
         "textMateRules": [
             {
                 "scope": [
@@ -33,9 +34,10 @@
                 "foreground": "#b1fff6" // Укажите желаемый цвет (HEX)
             }
         }
-        ]
+        ]}
     },
         "editor.semanticTokenColorCustomizations": {
+        "[Monokai Vibrant (Rust)]": {
         "rules": {
             // Переменные
             "variable": "#ffffff",
@@ -47,13 +49,16 @@
             "enumMember": "#92a2ff",
             "property": "#92a2ff",      // Цвет полей (переменных) в структурах
             "property.readonly": "#92a2ff", // Для надежности в разных контекстах
-        }
+        }}
     },
+    
     "editor.bracketPairColorization.enabled": true,
     "workbench.colorCustomizations": {
-        "editorBracketHighlight.foreground1": "#ffffff",
-        "editorBracketHighlight.foreground2": "#ffffff",
-        "editorBracketHighlight.foreground3": "#ffffff",
-        "editorBracketHighlight.unexpectedBracket.foreground": "#ffffff"
+        "[Monokai Vibrant (Rust)]": {
+            "editorBracketHighlight.foreground1": "#ffffff",
+            "editorBracketHighlight.foreground2": "#ffffff",
+            "editorBracketHighlight.foreground3": "#ffffff",
+            "editorBracketHighlight.unexpectedBracket.foreground": "#ffffff"
+        }
     }
 }
