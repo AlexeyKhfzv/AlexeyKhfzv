@@ -1,0 +1,79 @@
+{
+    "editor.tokenColorCustomizations": {
+        "[Monokai Vibrant (Rust)]": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "storage.type",
+                    "entity.name.type"
+                ],
+                // red - #FF3F4F, orange - #ffa413
+                "settings": { "foreground": "#FF3F4F" } // Типы данных (int, char, и др.)
+            },
+            {
+                "scope": "entity.name.function", 
+                // #FFFFFF, pink - #f79cff
+                "settings": { "foreground": "#FFFFFF" } // Названия функций
+            },
+            {
+                "scope": "string", 
+                "settings": { "foreground": "#5adbff" } // Строки
+            },
+            {
+                "scope": [
+                    "keyword.operator",
+                    "entity.name.module"
+                ],
+                "settings": {
+                    "foreground": "#FFFFFF"
+                }
+            },
+            {
+            "scope": [
+                "constant.numeric" // Числа
+            ],
+            "settings": {
+                "foreground": "#b1fff6" // Укажите желаемый цвет (HEX)
+            },
+            
+        },
+        {
+            "scope": "constant.language.boolean",
+            "settings": {
+                "foreground": "#ff3f3f" 
+            }
+        }
+        ]}
+    },
+        "editor.semanticTokenColorCustomizations": {
+        "[Monokai Vibrant (Rust)]": {
+        "rules": {
+            // Переменные
+            "variable": "#ffffff",
+            "variable.readonly": "#ffffff", // Неизменяемые (let)
+            "variable.mutable": {
+                "foreground": "#ffffff",
+                "fontStyle": "underline"    // Изменяемые (let mut) можно подчеркнуть
+            },
+            "macro": "#FF3F4F",
+            // blue - #92a2ff, orange - #ffa413
+            "enumMember": "#ffa413",
+            "property": "#ffa413",      // Цвет полей (переменных) в структурах
+            "property.readonly": "#ffa413" // Для надежности в разных контекстах
+        }}
+    },
+    
+    "editor.bracketPairColorization.enabled": true,
+    "workbench.colorCustomizations": {
+        "[Monokai Vibrant (Rust)]": {
+            "editorBracketHighlight.foreground1": "#ffffff",
+            "editorBracketHighlight.foreground2": "#ffffff",
+            "editorBracketHighlight.foreground3": "#ffffff",
+            "editorBracketHighlight.unexpectedBracket.foreground": "#ffffff",
+            
+            // Цвет текста в терминале
+            "terminal.foreground": "#FFFFFF",
+        }
+    },
+    "workbench.colorTheme": "Monokai Vibrant (Rust)"
+}
